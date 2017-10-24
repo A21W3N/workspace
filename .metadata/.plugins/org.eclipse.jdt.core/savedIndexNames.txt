@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\Vincze Benjámin\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1595694945.index
+545635415.index
+2104067886.index
+3781481117.index

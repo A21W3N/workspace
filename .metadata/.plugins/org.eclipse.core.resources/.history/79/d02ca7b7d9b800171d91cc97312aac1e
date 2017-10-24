@@ -1,0 +1,32 @@
+package hu.ttk;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class Start {
+	
+	public static void main(String[] args){
+		
+		try {
+			FileReader reader = new FileReader("data.txt");
+			BufferedReader buff =new BufferedReader(reader);
+			String row=buff.readLine();
+			while(row!=null)
+			{
+				System.out.println(row);
+				row=buff.readLine();
+			}
+		} catch (FileNotFoundException e1) {
+			
+			e1.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+	}
+
+}

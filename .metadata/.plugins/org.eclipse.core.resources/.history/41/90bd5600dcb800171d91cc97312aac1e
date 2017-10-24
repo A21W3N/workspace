@@ -1,0 +1,14 @@
+package hu.ttk.data;
+
+import java.util.ArrayList;
+
+public class DataProvider {
+	
+	public ArrayList getAll() throws Exception
+	{
+		return null;
+	}
+		
+	
+
+}

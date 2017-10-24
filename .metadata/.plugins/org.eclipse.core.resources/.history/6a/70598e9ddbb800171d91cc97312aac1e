@@ -1,0 +1,5 @@
+package hu.ttk.data;
+
+public class UserDAO {
+
+}

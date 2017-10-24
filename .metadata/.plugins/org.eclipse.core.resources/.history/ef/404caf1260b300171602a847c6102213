@@ -1,0 +1,33 @@
+package hu.ttk;
+
+import java.util.List;
+
+public class UserDAO implements IUserDao {
+
+	@Override
+	public List<User> getAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public User getByID(int ID) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void update(User user) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteByID(int ID) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+
+}

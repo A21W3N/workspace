@@ -1,0 +1,818 @@
+!SESSION 2017-09-26 18:45:21.296 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=hu_HU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.804
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.buildship_2.1.2.v20170807-1324
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.821
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.e4.rcp_1.6.1.v20170829-0553
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.837
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.ecf.core.feature_1.4.0.v20170516-2248
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.849
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.ecf.core.ssl.feature_1.1.0.v20170110-1317
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.870
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.feature_3.13.8.v20170715-2257
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.901
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.httpclient4.feature_3.13.8.v20170715-2257
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.933
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.1.0.v20170110-1317
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.961
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.ssl.feature_1.1.0.v20170110-1317
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.962
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.eclemma.feature_3.0.0.201706140232
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.972
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.egit.mylyn_4.8.0.201706111038-r
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:23.983
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.egit_4.8.0.201706111038-r
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.001
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.emf.common_2.13.0.v20170609-0707
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.015
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.emf.ecore_2.13.0.v20170609-0707
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.033
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.epp.logging.aeri.feature_2.0.6.v20170906-1226
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.050
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.epp.mpc_1.6.1.v20170906-1830
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.069
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.epp.package.common.feature_4.7.1.20170914-1200
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.087
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.epp.package.java.feature_4.7.1.20170914-1200
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.103
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.core.feature_1.4.1.v20170906-1259
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.112
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.discovery.feature_1.1.1.v20170906-1259
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.122
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.extras.feature_1.3.1.v20170906-1259
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.156
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.rcp.feature_1.3.1.v20170906-1259
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.173
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.user.ui_2.3.1.v20170906-1259
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.189
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.help_2.2.101.v20170906-1700
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.207
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.jdt_3.13.1.v20170906-1700
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.230
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.jgit_4.8.0.201706111038-r
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.249
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.m2e.feature_1.8.1.20170728-1531
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.267
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.m2e.logback.feature_1.8.1.20170728-1531
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.277
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.bugzilla_feature_3.23.1.v20170623-0008
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.278
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.builds_1.15.0.v20170411-2141
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.298
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.identity_1.15.0.v20170411-1844
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.317
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.notifications_1.15.0.v20170411-1844
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.328
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.repositories.http_1.15.0.v20170411-1844
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.343
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.repositories_1.15.0.v20170411-1844
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.380
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons_3.23.0.v20170503-0014
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.395
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.context_feature_3.23.0.v20170414-0629
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.406
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.discovery_3.23.0.v20170411-1844
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.407
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.git_1.15.0.v20170411-2003
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.433
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.hudson_1.15.0.v20170411-2141
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.461
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.ide_feature_3.23.0.v20170411-2108
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.488
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.java_feature_3.23.0.v20170411-2108
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.503
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.monitor_3.23.0.v20170411-1844
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.518
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.tasks.ide_3.23.1.v20170623-0008
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.533
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.team_feature_3.23.0.v20170411-2108
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.534
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.versions_1.15.0.v20170411-2003
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.548
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.6.201703111926
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.562
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.6.201703111926
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.579
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.mylyn_feature_3.23.1.v20170623-0008
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.610
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.oomph.p2_1.8.0.v20170410-0909
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.625
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.oomph.setup.core_1.8.0.v20170531-0903
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.645
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.oomph.setup_1.8.0.v20170531-0903
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.681
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.platform_4.7.1.v20170906-1700
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.698
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.rcp_4.7.1.v20170906-1700
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.716
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.mylyn.rcp.feature_2.4.10.v20170911-1410
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.719
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.news.rcp.feature_2.4.10.v20170911-1410
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.733
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.rcp.feature_2.4.10.v20170911-1410
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.752
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.snipmatch.rcp.feature_2.4.10.v20170911-1410
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.753
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.userstorage_1.1.0.v20170526-1605
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.861
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.wst.common_core.feature_3.9.1.v201707201954
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.909
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.wst.common_ui.feature_3.9.1.v201707201954
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.943
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.wst.xml_core.feature_3.9.1.v201707042225
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.960
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.wst.xml_ui.feature_3.9.1.v201707252002
+
+!ENTRY org.eclipse.update.configurator 4 0 2017-09-26 18:45:24.981
+!MESSAGE Unable to find feature.xml in directory: C:\IDE\Java\eclipse\features\org.eclipse.wst.xml_userdoc.feature_3.9.1.v201707252002
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.125
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.apache.ant_1.10.1.v20170504-0840.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.125
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.epp.package.common_4.7.1.20170914-1200.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.125
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.epp.package.java_4.7.1.20170914-1200.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.125
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.500.v20170531-1133.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.125
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.jdt.debug_3.11.0.v20170510-1451.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.125
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.m2e.archetype.common_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.141
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.m2e.maven.indexer_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.141
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.m2e.maven.runtime.slf4j.simple_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.141
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.141
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.platform_4.7.1.v20170906-1700.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.141
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.ui.themes_1.2.1.v20170809-1435.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.141
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.buildship_2.1.2.v20170807-1324.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.141
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.e4.rcp_1.6.1.v20170829-0553.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.core.feature_1.4.0.v20170516-2248.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.core.ssl.feature_1.1.0.v20170110-1317.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.feature_3.13.8.v20170715-2257.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.httpclient4.feature_3.13.8.v20170715-2257.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.1.0.v20170110-1317.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.ssl.feature_1.1.0.v20170110-1317.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.eclemma.feature_3.0.0.201706140232.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.egit.mylyn_4.8.0.201706111038-r.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.egit_4.8.0.201706111038-r.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.emf.common_2.13.0.v20170609-0707.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.emf.ecore_2.13.0.v20170609-0707.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.epp.logging.aeri.feature_2.0.6.v20170906-1226.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.156
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.epp.mpc_1.6.1.v20170906-1830.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.epp.package.common.feature_4.7.1.20170914-1200.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.epp.package.java.feature_4.7.1.20170914-1200.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.core.feature_1.4.1.v20170906-1259.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.discovery.feature_1.1.1.v20170906-1259.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.extras.feature_1.3.1.v20170906-1259.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.rcp.feature_1.3.1.v20170906-1259.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.user.ui_2.3.1.v20170906-1259.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.help_2.2.101.v20170906-1700.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.jdt_3.13.1.v20170906-1700.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.jgit_4.8.0.201706111038-r.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.m2e.feature_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.172
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.m2e.logback.feature_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.bugzilla_feature_3.23.1.v20170623-0008.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.builds_1.15.0.v20170411-2141.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.identity_1.15.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.notifications_1.15.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.repositories.http_1.15.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.repositories_1.15.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons_3.23.0.v20170503-0014.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.context_feature_3.23.0.v20170414-0629.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.discovery_3.23.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.git_1.15.0.v20170411-2003.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.hudson_1.15.0.v20170411-2141.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.ide_feature_3.23.0.v20170411-2108.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.188
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.java_feature_3.23.0.v20170411-2108.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.monitor_3.23.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.tasks.ide_3.23.1.v20170623-0008.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.team_feature_3.23.0.v20170411-2108.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.versions_1.15.0.v20170411-2003.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.6.201703111926.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.6.201703111926.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn_feature_3.23.1.v20170623-0008.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.oomph.p2_1.8.0.v20170410-0909.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.oomph.setup.core_1.8.0.v20170531-0903.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.oomph.setup_1.8.0.v20170531-0903.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.platform_4.7.1.v20170906-1700.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.rcp_4.7.1.v20170906-1700.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.203
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.mylyn.rcp.feature_2.4.10.v20170911-1410.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.219
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.news.rcp.feature_2.4.10.v20170911-1410.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.219
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.rcp.feature_2.4.10.v20170911-1410.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.219
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.snipmatch.rcp.feature_2.4.10.v20170911-1410.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.219
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.userstorage_1.1.0.v20170526-1605.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.219
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.wst.common_core.feature_3.9.1.v201707201954.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.219
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.wst.common_ui.feature_3.9.1.v201707201954.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.219
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.wst.xml_core.feature_3.9.1.v201707042225.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.219
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.wst.xml_ui.feature_3.9.1.v201707252002.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.219
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.wst.xml_userdoc.feature_3.9.1.v201707252002.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.469
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.apache.ant_1.10.1.v20170504-0840.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.469
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.epp.package.common_4.7.1.20170914-1200.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.469
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.epp.package.java_4.7.1.20170914-1200.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.469
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.equinox.launcher.win32.win32.x86_64_1.1.500.v20170531-1133.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.485
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.jdt.debug_3.11.0.v20170510-1451.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.485
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.m2e.archetype.common_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.485
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.m2e.maven.indexer_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.485
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.m2e.maven.runtime.slf4j.simple_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.485
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.485
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.platform_4.7.1.v20170906-1700.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.485
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\plugins\org.eclipse.ui.themes_1.2.1.v20170809-1435.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.500
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.buildship_2.1.2.v20170807-1324.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.500
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.e4.rcp_1.6.1.v20170829-0553.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.500
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.core.feature_1.4.0.v20170516-2248.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.500
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.core.ssl.feature_1.1.0.v20170110-1317.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.500
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.feature_3.13.8.v20170715-2257.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.500
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.httpclient4.feature_3.13.8.v20170715-2257.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.500
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.httpclient4.ssl.feature_1.1.0.v20170110-1317.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.500
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.ecf.filetransfer.ssl.feature_1.1.0.v20170110-1317.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.500
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.eclemma.feature_3.0.0.201706140232.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.500
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.egit.mylyn_4.8.0.201706111038-r.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.egit_4.8.0.201706111038-r.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.emf.common_2.13.0.v20170609-0707.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.emf.ecore_2.13.0.v20170609-0707.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.epp.logging.aeri.feature_2.0.6.v20170906-1226.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.epp.mpc_1.6.1.v20170906-1830.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.epp.package.common.feature_4.7.1.20170914-1200.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.epp.package.java.feature_4.7.1.20170914-1200.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.core.feature_1.4.1.v20170906-1259.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.discovery.feature_1.1.1.v20170906-1259.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.extras.feature_1.3.1.v20170906-1259.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.rcp.feature_1.3.1.v20170906-1259.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.equinox.p2.user.ui_2.3.1.v20170906-1259.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.help_2.2.101.v20170906-1700.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.jdt_3.13.1.v20170906-1700.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.jgit_4.8.0.201706111038-r.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.516
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.m2e.feature_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.m2e.logback.feature_1.8.1.20170728-1531.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.bugzilla_feature_3.23.1.v20170623-0008.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.builds_1.15.0.v20170411-2141.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.identity_1.15.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.notifications_1.15.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.repositories.http_1.15.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons.repositories_1.15.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.commons_3.23.0.v20170503-0014.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.context_feature_3.23.0.v20170414-0629.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.discovery_3.23.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.git_1.15.0.v20170411-2003.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.hudson_1.15.0.v20170411-2141.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.531
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.ide_feature_3.23.0.v20170411-2108.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.java_feature_3.23.0.v20170411-2108.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.monitor_3.23.0.v20170411-1844.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.tasks.ide_3.23.1.v20170623-0008.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.team_feature_3.23.0.v20170411-2108.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.versions_1.15.0.v20170411-2003.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.wikitext.editors_feature_3.0.6.201703111926.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn.wikitext_feature_3.0.6.201703111926.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.mylyn_feature_3.23.1.v20170623-0008.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.oomph.p2_1.8.0.v20170410-0909.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.oomph.setup.core_1.8.0.v20170531-0903.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.547
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.oomph.setup_1.8.0.v20170531-0903.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.platform_4.7.1.v20170906-1700.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.rcp_4.7.1.v20170906-1700.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.mylyn.rcp.feature_2.4.10.v20170911-1410.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.news.rcp.feature_2.4.10.v20170911-1410.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.rcp.feature_2.4.10.v20170911-1410.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.recommenders.snipmatch.rcp.feature_2.4.10.v20170911-1410.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.userstorage_1.1.0.v20170526-1605.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.wst.common_core.feature_3.9.1.v201707201954.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.wst.common_ui.feature_3.9.1.v201707201954.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.wst.xml_core.feature_3.9.1.v201707042225.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.wst.xml_ui.feature_3.9.1.v201707252002.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2017-09-26 18:45:37.563
+!MESSAGE Unable to acquire PluginConverter service during generation for: C:\IDE\Java\eclipse\features\org.eclipse.wst.xml_userdoc.feature_3.9.1.v201707252002.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-09-26 18:50:47.605
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Vincze Benjámin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 3 2017-09-26 19:24:47.867
+!MESSAGE Full project indexing required:
+  [+] C:\IDE\Java\Javabb\lib\charsets.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\access-bridge-64.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\cldrdata.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\dnsns.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\jaccess.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\jfxrt.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\localedata.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\nashorn.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunec.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunjce_provider.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunmscapi.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunpkcs11.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\zipfs.jar
+  [+] C:\IDE\Java\Javabb\lib\jce.jar
+  [+] C:\IDE\Java\Javabb\lib\jfr.jar
+  [+] C:\IDE\Java\Javabb\lib\jsse.jar
+  [+] C:\IDE\Java\Javabb\lib\resources.jar
+  [+] C:\IDE\Java\Javabb\lib\rt.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:172)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.startUp(ProjectTypesIndex.java:128)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+!SESSION 2017-10-03 17:57:57.958 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=hu_HU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-10-03 17:58:33.022
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Vincze Benjámin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 3 2017-10-03 18:49:15.111
+!MESSAGE Full project indexing required:
+  [+] C:\IDE\Java\Javabb\lib\charsets.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\access-bridge-64.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\cldrdata.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\dnsns.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\jaccess.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\jfxrt.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\localedata.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\nashorn.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunec.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunjce_provider.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunmscapi.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunpkcs11.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\zipfs.jar
+  [+] C:\IDE\Java\Javabb\lib\jce.jar
+  [+] C:\IDE\Java\Javabb\lib\jfr.jar
+  [+] C:\IDE\Java\Javabb\lib\jsse.jar
+  [+] C:\IDE\Java\Javabb\lib\resources.jar
+  [+] C:\IDE\Java\Javabb\lib\rt.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:172)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.startUp(ProjectTypesIndex.java:128)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+!SESSION 2017-10-17 17:51:16.317 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=hu_HU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-10-17 17:52:54.298
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Vincze Benjámin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 3 2017-10-17 18:07:32.404
+!MESSAGE Full project indexing required:
+  [+] C:\IDE\Java\Javabb\lib\charsets.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\access-bridge-64.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\cldrdata.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\dnsns.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\jaccess.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\jfxrt.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\localedata.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\nashorn.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunec.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunjce_provider.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunmscapi.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\sunpkcs11.jar
+  [+] C:\IDE\Java\Javabb\lib\ext\zipfs.jar
+  [+] C:\IDE\Java\Javabb\lib\jce.jar
+  [+] C:\IDE\Java\Javabb\lib\jfr.jar
+  [+] C:\IDE\Java\Javabb\lib\jsse.jar
+  [+] C:\IDE\Java\Javabb\lib\resources.jar
+  [+] C:\IDE\Java\Javabb\lib\rt.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:172)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.startUp(ProjectTypesIndex.java:128)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+!SESSION 2017-10-24 18:04:34.644 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=hu_HU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-10-24 18:05:42.934
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Vincze Benjámin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-10-24 18:06:18.610 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=hu_HU
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-10-24 18:07:12.197
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Vincze Benjámin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 3 2017-10-24 18:19:49.664
+!MESSAGE Full project indexing required:
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\charsets.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\access-bridge-64.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\cldrdata.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\dnsns.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\jaccess.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\jfxrt.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\localedata.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\nashorn.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\sunec.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\sunjce_provider.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\sunmscapi.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\sunpkcs11.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\ext\zipfs.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\jce.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\jfr.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\jsse.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\resources.jar
+  [+] C:\Program Files\Java\jre1.8.0_151\lib\rt.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:172)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.startUp(ProjectTypesIndex.java:128)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
